@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "901801438191",
+    "project_id": "felix-development-job-timer",
+    "storage_bucket": "felix-development-job-timer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901801438191:android:39d293521489aed4e8241a",
+        "android_client_info": {
+          "package_name": "br.com.felixdevelopment.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901801438191-ddlveg6g5gonf6ii01pq6d3hmpfvvt0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxdBaGN3BtAUrheQTAQNfiY9kOyRDska4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901801438191-ddlveg6g5gonf6ii01pq6d3hmpfvvt0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901801438191-19con29085lv8b90bsqnch6p6iq1792l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.felixdevelopment.jobTimer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
